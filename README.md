@@ -13,7 +13,7 @@ https://unbelievaboat-api.readme.io/reference/reference
 
 ### TUTORIAL
 - Dirigete a la pagina de discord developers: https://discord.com/developers/applications, selecciona tu bot
-- Ve a la seccion de "General Information", Copia el ID de tu bot que ves.
+- Ve a la seccion de "General Information", Copia el ID de tu bot en la apartado que ves en la imagen como ejemplo.
 
 
  ![image](https://github.com/IzanaonYT/UNBELIEBEBOAT-BDFD/assets/131629841/ee795246-2b0b-44a8-904b-115259635efc)
