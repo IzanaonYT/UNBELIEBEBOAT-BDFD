@@ -28,4 +28,12 @@ https://unbelievaboat-api.readme.io/reference/reference
  - Resultado:
  - Recuerda guardan el token proporcionado por al api ya que es personal.
 ![image](https://github.com/IzanaonYT/UNBELIEBEBOAT-BDFD/assets/131629841/eeb2f427-8b3b-4f13-86a6-582f0fbc6fa3)
+
+
+- Ahora con link de autorizacion en el apartado de abajo, abre un ventana nueva e ingresa y dale permisos necesarios para gestionar dicho servidor.
+
+![image](https://github.com/IzanaonYT/UNBELIEBEBOAT-BDFD/assets/131629841/95360bea-b744-4742-b633-a76c09dd5bcc)
+
+![image](https://github.com/IzanaonYT/UNBELIEBEBOAT-BDFD/assets/131629841/2ee90faa-2808-4858-8221-ed8d819e6cd0)
+
  
