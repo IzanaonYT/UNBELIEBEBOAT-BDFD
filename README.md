@@ -25,3 +25,7 @@ https://unbelievaboat-api.readme.io/reference/reference
 
 ![image](https://github.com/IzanaonYT/UNBELIEBEBOAT-BDFD/assets/131629841/995123dd-937f-4c82-bbdc-5d99c39b088f)
 
+ - Resultado:
+ - Recuerda guardan el token proporcionado por al api ya que es personal.
+![image](https://github.com/IzanaonYT/UNBELIEBEBOAT-BDFD/assets/131629841/eeb2f427-8b3b-4f13-86a6-582f0fbc6fa3)
+ 
