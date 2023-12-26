@@ -1,0 +1,13 @@
+Prefix: !balance
+
+$var[usuario;$findUser[$message;true]]
+$httpGet[https://unbelievaboat.com/api/v1/guilds/$guildID/users/$var[usuario]]
+$jsonParse[$httpResult]
+
+$author[$username[$json[user_id]]]
+$authorIcon[$userAvatar[$json[user_id]]]
+
+$description[Posicion: #$json[rank].]
+$addField[Dinero;$try$numberSeparator[$json[cash]]$catch$json[cash]$endtry;true;1]
+$addField[Banco;$try$numberSeparator[$json[bank]]$catch$json[bank]$endtry;true;1]
+$addField[Total;$try$numberSeparator[$json[total]]$catch$json[total]$endtry;true;1]
