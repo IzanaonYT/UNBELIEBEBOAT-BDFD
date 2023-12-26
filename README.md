@@ -26,7 +26,7 @@ https://unbelievaboat-api.readme.io/reference/reference
 ![image](https://github.com/IzanaonYT/UNBELIEBEBOAT-BDFD/assets/131629841/995123dd-937f-4c82-bbdc-5d99c39b088f)
 
  - Resultado:
- - Recuerda guardan el token proporcionado por al api ya que es personal.
+ - Recuerda guardan el token proporcionado por al api ya que es personal y te servira en los encabezados(headers) solicitados en las peticiones GET, POST, DElETE, que da la API.
 ![image](https://github.com/IzanaonYT/UNBELIEBEBOAT-BDFD/assets/131629841/eeb2f427-8b3b-4f13-86a6-582f0fbc6fa3)
 
 
