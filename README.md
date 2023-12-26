@@ -16,4 +16,7 @@ https://unbelievaboat-api.readme.io/reference/reference
 - Ve a la seccion de "General Information", Copia el ID de tu bot en la apartado que ves en la imagen como ejemplo.
 
 
- ![image](https://github.com/IzanaonYT/UNBELIEBEBOAT-BDFD/assets/131629841/ee795246-2b0b-44a8-904b-115259635efc)
+ ![image](https://github.com/IzanaonYT/UNBELIEBEBOAT-BDFD/assets/131629841/d92d29fc-09ac-456a-b979-ba36f6725096)
+
+ Una vez dirigite ala pagina de aplicaciones de unbeliebeoat: [UNBELIEBEOAT](https://unbelievaboat.com/applications/)https://unbelievaboat.com/applications/
+
