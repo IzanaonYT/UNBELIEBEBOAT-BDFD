@@ -9,7 +9,7 @@ Posdata: Si quieres codigos y guias unete al servidor servidor. Tambien podras e
 https://unbelievaboat-api.readme.io/reference/reference
 
 ## REQUERIMIENTOS
-- APLICACION REGISTRADA EN UNBELIEBEOAT
+- APLICACCION REGISTRADA EN UNBELIEBEOAT
 
 ### TUTORIAL
 - Dirigete a la pagina de discord developers: https://discord.com/developers/applications, selecciona tu bot
@@ -18,9 +18,9 @@ https://unbelievaboat-api.readme.io/reference/reference
 
  ![image](https://github.com/IzanaonYT/UNBELIEBEBOAT-BDFD/assets/131629841/d92d29fc-09ac-456a-b979-ba36f6725096)
 
- - Una vez dirigite ala pagina de aplicaciones de unbeliebeoat: [UNBELIEBEOAT](https://unbelievaboat.com/applications/)https://unbelievaboat.com/applications/
+- Una vez dirigite ala pagina de aplicaciones de unbeliebeoat: [UNBELIEBEOAT](https://unbelievaboat.com/applications/)https://unbelievaboat.com/applications/
 
-- Coloca la ID de tu bot copiada anteiormente en el apartado que se muestra en la imagen de ejemplo.
+- Coloca la ID de tu bot copiada anteriormente en el apartado que se muestra en la imagen de ejemplo.
 
 
 ![image](https://github.com/IzanaonYT/UNBELIEBEBOAT-BDFD/assets/131629841/995123dd-937f-4c82-bbdc-5d99c39b088f)
