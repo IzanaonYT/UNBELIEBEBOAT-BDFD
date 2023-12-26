@@ -32,11 +32,12 @@ https://unbelievaboat-api.readme.io/reference/reference
 
 - Ahora con link de autorizacion en el apartado de abajo, abre un ventana nueva e ingresa y dale permisos necesarios para gestionar dicho servidor.
 
-## Codigos
-
 ![image](https://github.com/IzanaonYT/UNBELIEBEBOAT-BDFD/assets/131629841/95360bea-b744-4742-b633-a76c09dd5bcc)
 
 ![image](https://github.com/IzanaonYT/UNBELIEBEBOAT-BDFD/assets/131629841/2ee90faa-2808-4858-8221-ed8d819e6cd0)
 
 ![image](https://github.com/IzanaonYT/UNBELIEBEBOAT-BDFD/assets/131629841/8482369a-078d-4116-ad74-470873850ec6)
+
+
+## Codigos
 
