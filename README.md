@@ -1,4 +1,4 @@
-# UNBELIEBEBOAT-BDFD
+# UNBELIEBEBOAT+BDFD
 
 ¡Hola! soy el creador de estos codigos izana.py soy el owner del equipo de The BDS Word. Sigue las indicaciones para poder usar el codigo ten en cuenta que si no sabes como funciona el codigo no desordenes nada o lo romperas.
 
