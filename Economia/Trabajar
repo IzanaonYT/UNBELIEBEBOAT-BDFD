@@ -1,0 +1,19 @@
+Prefix: !work
+
+$nomention
+$var[ganacia;$random[1;1000]]
+
+$c[poner el token de su aplicacion registrada en unbeliebeboat]
+$var[token;(token aqui)]
+
+$httpAddHeader[Authorization;$var[token]]
+$httpAddHeader[accept;application/json]
+$httpAddHeader[content-type;application/json]
+$httpPatch[https://unbelievaboat.com/api/v1/guilds/$guildID/users/$authorID;{
+  "cash": $var[ganancia],
+  "bank": 0,
+  "reason": "string"
+}]
+
+$description[Genial as trabajado muy duro y ganaste $httpResult[cash].]
+$color[$random[0;999999]]
