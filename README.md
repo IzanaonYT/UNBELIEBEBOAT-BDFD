@@ -9,6 +9,6 @@ Posdata: Si quieres codigos y guias unete al servidor servidor. Tambien podras e
 https://unbelievaboat-api.readme.io/reference/reference
 
 ## REQUERIMIENTOS
-- APLICACION
+- APLICACION REGISTRADA EN UNBELIEBEOAT
 
 ### TUTORIAL
